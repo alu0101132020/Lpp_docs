@@ -1,0 +1,20 @@
+Mon, 16 Dec 2019 19:28:11 +0000
+./lib/tdd/platoH.rb	Mon, 16 Dec 2019 19:27:23 +0000
+./lib/tdd/nodo.rb	Mon, 16 Dec 2019 19:27:03 +0000
+./lib/tdd/funciones.rb	Mon, 16 Dec 2019 19:25:30 +0000
+./lib/tdd/lista.rb	Mon, 16 Dec 2019 19:27:16 +0000
+./lib/tdd/alimento.rb	Mon, 16 Dec 2019 19:26:48 +0000
+./lib/tdd/version.rb	Mon, 18 Nov 2019 20:32:32 +0000
+./lib/tdd/plato.rb	Mon, 16 Dec 2019 19:27:32 +0000
+./lib/tdd.rb	Sun, 15 Dec 2019 20:18:28 +0000
+./Gemfile	Mon, 18 Nov 2019 20:32:32 +0000
+./Guardfile	Thu, 21 Nov 2019 19:31:51 +0000
+./tdd.gemspec	Mon, 18 Nov 2019 20:33:59 +0000
+./README.md	Sun, 15 Dec 2019 20:51:05 +0000
+./Gemfile.lock	Mon, 18 Nov 2019 20:34:23 +0000
+./bin/Guardfile	Mon, 18 Nov 2019 20:34:38 +0000
+./bin/setup	Mon, 18 Nov 2019 20:32:32 +0000
+./bin/console	Mon, 18 Nov 2019 20:32:32 +0000
+./Rakefile	Mon, 18 Nov 2019 20:32:32 +0000
+./spec/tdd_spec.rb	Sun, 15 Dec 2019 20:07:33 +0000
+./spec/spec_helper.rb	Mon, 18 Nov 2019 20:32:32 +0000
